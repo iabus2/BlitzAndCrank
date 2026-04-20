@@ -14,7 +14,7 @@ Discord bot that allows users to
 
 # BlitzAndCrank in Use
 ## Unranked Users
-<img width="477" height="547" alt="image" src="https://github.com/user-attachments/assets/1505f90c-c68a-4483-872a-e399e380bdb7" />
+<img width="417" height="517" alt="image" src="https://github.com/user-attachments/assets/7d6ebcb8-fa43-4e8d-a994-8ffbe0b80635" />
 When using /solo_rank {summoner name #tag}, if the user is unranked for the current season, account level along with top 3 champion masteries are shown.
 
 ## Ranked Users
