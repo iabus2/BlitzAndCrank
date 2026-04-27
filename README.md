@@ -28,6 +28,5 @@ When using /solo_rank {summoner name #tag}, if the user is ranked, acount level,
 <img width="380" height="220" alt="image" src="https://github.com/user-attachments/assets/bc10a013-7ee5-479c-9192-9aedb34eb9d2" />
 Current leaderboard sorts by account level, as shown here.
 
-# Future additons
-## AI Coaching
-- Currently ironing out bugs with the AI coaching, which will allow users to ask how to play certain matchups all without leaving the discord overlay.
+## Video Demo
+https://youtu.be/wC8dam8dcQ4
